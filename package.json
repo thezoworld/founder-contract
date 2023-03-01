@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "openzeppelin-solidity": "^4.3.2",
+    "solmate": "^6.7.0"
+  }
+}
